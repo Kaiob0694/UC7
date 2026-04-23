@@ -10,4 +10,4 @@ require '../src/template/header.php';
         <input type="email" name="email" placeholder="Digite seu E-mail">
         <button type="submit">Enviar</button>
     </form>
-</div>
+<
